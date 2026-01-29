@@ -1,0 +1,15 @@
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\bin\Debug\net10.0\2.modul.imtixon.exe
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\bin\Debug\net10.0\2.modul.imtixon.deps.json
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\bin\Debug\net10.0\2.modul.imtixon.runtimeconfig.json
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\bin\Debug\net10.0\2.modul.imtixon.dll
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\bin\Debug\net10.0\2.modul.imtixon.pdb
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\obj\Debug\net10.0\2.modul.imtixon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\obj\Debug\net10.0\2.modul.imtixon.AssemblyInfoInputs.cache
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\obj\Debug\net10.0\2.modul.imtixon.AssemblyInfo.cs
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\obj\Debug\net10.0\2.modul.imtixon.csproj.CoreCompileInputs.cache
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\obj\Debug\net10.0\2.modul.imtixon.sourcelink.json
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\obj\Debug\net10.0\2.modul.imtixon.dll
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\obj\Debug\net10.0\refint\2.modul.imtixon.dll
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\obj\Debug\net10.0\2.modul.imtixon.pdb
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\obj\Debug\net10.0\2.modul.imtixon.genruntimeconfig.cache
+E:\Coding\DotNet\ModulBir\BirinchiModul\2.modul.imtixon\2.modul.imtixon\obj\Debug\net10.0\ref\2.modul.imtixon.dll
